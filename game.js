@@ -43,7 +43,7 @@ function preload()
 {
     this.load.image("title","Assets/img/title.png")
     this.load.image("pipeUP","Assets/img/pipeUP.png")
-    this.load.image("pipeDOWN","Assets/img/pipeDOWN.png")
+    this.load.image("pipeDOWN","Assets/img/pipeDown.png")
     this.load.image("ground","Assets/img/ground.png")
     this.load.image("sky","Assets/img/sky.png")
     this.load.image("bird","Assets/img/bird.png")
